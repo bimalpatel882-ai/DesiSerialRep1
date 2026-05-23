@@ -1,0 +1,8 @@
+{
+  "name": "Mukesh Repo",
+  "description": "CloudStream plugins",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://umeshraj.github.io/cloudstream-repo/plugins.json"
+  ]
+}
