@@ -1,2 +1,1 @@
-# DesiSerialRep1
-My CloudStream plugins
+CloudStream-repo
