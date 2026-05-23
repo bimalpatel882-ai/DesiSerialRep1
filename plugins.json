@@ -1,0 +1,10 @@
+[
+  {
+    "name": "DesiTV",
+    "url": "https://YOURUSERNAME.github.io/cloudstream-repo/desitv.apk",
+    "version": 1,
+    "iconUrl": "https://YOURUSERNAME.github.io/cloudstream-repo/icon.png",
+    "authors": ["Mukesh"],
+    "description": "Indian serial provider"
+  }
+]
